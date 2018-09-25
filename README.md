@@ -17,7 +17,7 @@ Further information on Firebase stuff can be found in the [firebase/README.md](.
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.(https://github.com/angular/angular-cli/blob/master/packages/angular/cli/README.md#generating-components-directives-pipes-and-services)
 
 ## Build
 
